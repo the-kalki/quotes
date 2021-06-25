@@ -35,3 +35,9 @@ p {
     padding: 10px 30px 5px;
     background-color: hotpink;
 }
+#signature{
+    font-style: italic;
+    font-family: cursive;
+    color: red;
+    text-align: bottom;
+}
