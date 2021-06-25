@@ -39,5 +39,6 @@ p {
     font-style: italic;
     font-family: cursive;
     color: red;
-    text-align: bottom;
+    text-align: left;
+    text-decoration: rgb(red, green, blue);
 }
